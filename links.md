@@ -9,7 +9,7 @@
 
 ## Network
 - [Много качественного материала по сетям](https://www.youtube.com/@AndreySozykin/playlists "Много качественного материала по сетям")
-- [Большое видео по сетям](htthttps://www.youtube.com/watch?v=r42DUN6DDEQp:// "Большое видео по сетям")
+- [Большое видео по сетям](https://www.youtube.com/watch?v=r42DUN6DDEQp:// "Большое видео по сетям")
 
 ## Bash
 - [Статья-шпаргалка](http://https://habr.com/ru/companies/ruvds/articles/325522/ "Статья-шпаргалка")
