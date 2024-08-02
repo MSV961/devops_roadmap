@@ -23,6 +23,6 @@
 - [Небольшой курс от DeusOps На youtube](https://www.youtube.com/watch?v=Wo2TwPi3cNs&list=PLGQiJX6wM-zzcPye1y7gpyJO0uH7NMNP7 "Небольшой курс от DeusOps На youtube")
 - [Задачник от DeusOps (ну тут прям хардкор)](htthttps://deusops.com/classbook#product-servicesp:// "Задачник от DeusOps (ну тут прям хардкор)")
 - [Ещё список бесплатных материалов](http://https://github.com/iu5git/DevOps?tab=readme-ov-file "Ещё список бесплатных материалов")
-- - [Профессия "Инженер облачных сервисов" от Яндекс облако](https://yandex.cloud/ru/training "Бесплатный курс "Инженер облачных сервисов" от Яндекс облако" + ещё другие курсы от яндекс облако)
+- [Профессия "Инженер облачных сервисов" от Яндекс облако](https://yandex.cloud/ru/training "Профессия "Инженер облачных сервисов" от Яндекс облако")
 
 
