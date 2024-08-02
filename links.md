@@ -21,8 +21,7 @@
 - [Отличный курс, кому нужна практика. Без теории, задачи + гугл = вперёд](https://devops-factory.com/ "Отличный курс, кому нужна практика. Без теории, задачи + гугл = вперёд")
 - [Список бесплатных ресурсов для обучения](http://https://vc.ru/dev/1079349-besplatnye-rusursy-dlya-izucheniya-devops "Список бесплатных ресурсов для обучения")
 - [Небольшой курс от DeusOps На youtube](https://www.youtube.com/watch?v=Wo2TwPi3cNs&list=PLGQiJX6wM-zzcPye1y7gpyJO0uH7NMNP7 "Небольшой курс от DeusOps На youtube")
-- [Задачник от DeusOps (ну тут прям хардкор)](htthttps://deusops.com/classbook#product-servicesp:// "Задачник от DeusOps (ну тут прям хардкор)")
+- [Задачник от Deusops, хардкорная практика](http://https://deusops.com/classbook#product-services "Задачник от Deusops, хардкорная практика")
 - [Ещё список бесплатных материалов](http://https://github.com/iu5git/DevOps?tab=readme-ov-file "Ещё список бесплатных материалов")
-- [Профессия "Инженер облачных сервисов" от Яндекс облако](https://yandex.cloud/ru/training "Профессия "Инженер облачных сервисов" от Яндекс облако")
-
+[Курс по яндекс облаку](https://yandex.cloud/ru/training/training-pro#devops "Курс по яндекс облаку")
 
